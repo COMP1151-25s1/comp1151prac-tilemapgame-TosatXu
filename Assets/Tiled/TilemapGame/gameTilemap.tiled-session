@@ -1,0 +1,49 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/zihan/OneDrive/Desktop/Uni/Year 1/COMP1151/comp1151prac-tilemapgame-TosatXu/Assets/TileSheet.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/zihan/OneDrive/Desktop/Uni/Year 1/COMP1151/comp1151prac-tilemapgame-TosatXu/Assets/TileSheet.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 5.5,
+                "y": -7.75
+            }
+        },
+        "TinyTown_Tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TinyTown_Tileset_2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/zihan/OneDrive/Desktop/Uni/Year 1/COMP1151/comp1151prac-tilemapgame-TosatXu/Assets/Tiled/TilemapGame/kenney_tiny-town/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "C:/Users/zihan/OneDrive/Desktop/Uni/Year 1/COMP1151/comp1151prac-tilemapgame-TosatXu/Assets/TileSheet.tmx",
+        "TinyTown_Tileset_2.tsx"
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "TinyTown_Tileset_2.tsx",
+        "C:/Users/zihan/OneDrive/Desktop/Uni/Year 1/COMP1151/comp1151prac-tilemapgame-TosatXu/Assets/TileSheet.tmx",
+        "TinyTown_Tileset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
